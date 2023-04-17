@@ -1,0 +1,14 @@
+{
+  "name": "quotegen",
+  "version": "1.0.0",
+  "description": "Random Quote Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahdi09",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
